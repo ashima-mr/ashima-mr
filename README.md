@@ -15,13 +15,6 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 - 💬 Talk to me about Machine Learning, Cloud Technology and Biomedical ML Research.
 - ⚡ Fun fact: My fav shows at the moment are Tiny Worlds and Earthsounds 🍃
 
-### Currently I'm Working On
-
-<!-- [![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
---!>
-
 ### Tools I Use 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -69,6 +62,12 @@ Apart from the pinned repositories, I have built:
 <h3> <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new">Guestbook : lmk! 🌟🫧 </h3>
 --!>
 
+<!-- ### Currently I'm Working On
+
+[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+--!>
 <!--
 **ashima-mr/ashima-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
