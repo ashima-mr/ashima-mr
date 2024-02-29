@@ -5,7 +5,7 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 [![Linkedin Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashima-mr/)](https://www.linkedin.com/in/ashima-mr/)
 [![Medium Badge](https://img.shields.io/badge/-@ashima_mr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashima-mr)](https://medium.com/@ashima-mr)
 [![Goodreads Badge](https://img.shields.io/badge/-ashima_mr-darkred?style=flat-square&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/)](https://www.goodreads.com/)
-[![Twitter Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/ashima_mr)](https://twitter.com/ashima_mr)
+[![Twitter Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ashima_mr)](https://twitter.com/ashima_mr)
 [![Gmail Badge](https://img.shields.io/badge/-ashima_mr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashimafatima104@gmail.com)](mailto:ashimafatima104@gmail.com)
 
 ## ✏️ &nbsp;Blog posts
