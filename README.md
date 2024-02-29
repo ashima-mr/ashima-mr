@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh, hi! Didn't notice you there! 👋
 
 <!--
 **ashima-mr/ashima-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
