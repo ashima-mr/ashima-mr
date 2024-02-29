@@ -9,6 +9,11 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 [![Gmail Badge](https://img.shields.io/badge/-ashima_mr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashimafatima104@gmail.com)](mailto:ashimafatima104@gmail.com)
 
 
+- 🍭 <b>Open for Hiring</b>
+- 💡 I’m currently learning probability and statistics in depth. Resources include: <i>Naked Statisics, The Elements of Statistical Learning and MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010 </i>
+- 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
+- 💬 Talk to me about Machine Learning, Cloud Technology and Biomedical ML Research.
+- ⚡ Fun fact: My fav shows at the moment are Tiny Worlds and Earthsounds 🍃
 
 ### ✏️ Featured blogs/articles
 
@@ -27,6 +32,8 @@ Apart from the pinned repositories, I have built:
 - 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
 - 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
 - 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
+
+<h3> <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new">Guestbook : lmk! 🌟🫧 </h3>
 --!>
 
 <!--
