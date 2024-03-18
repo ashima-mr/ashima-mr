@@ -10,7 +10,7 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 
 - 🍭 <b>Open for Hiring</b>
 - 🌍 Based in Chennai, Qatar and (soon) the UK
-- 💡 I’m currently learning probability and statistics in depth. Resources include: <i>Naked Statisics, The Elements of Statistical Learning and MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010 </i>
+- 💡 I’m currently learning probability and statistics in depth. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
 - 💬 Talk to me about Machine Learning, Cloud Technology and Biomedical ML Research.
 - ⚡ Fun fact: My fav shows at the moment are Tiny Worlds and Earthsounds 🍃
