@@ -1,6 +1,6 @@
 ### Oh hi there! 👋 Fancy seeing you here! 🌼
 
-I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine Learning and am currently passionate about NLP, CNNs and probability & statistics . Always open to collaborating on projects and random ideas concieved at 2am. Feel free to get to know and connect with me here:
+I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine Learning and am currently passionate about NLP, Computer Vision and Quantum Machine Learning . Always open to collaborating on projects and random ideas concieved at 2am. Feel free to get to know and connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashima-mr/)](https://www.linkedin.com/in/ashima-mr/)
 [![Medium Badge](https://img.shields.io/badge/-@ashima_mr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashima-mr)](https://medium.com/@ashima-mr)
