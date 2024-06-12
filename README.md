@@ -12,7 +12,7 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 - 🌍 Based in Chennai and Qatar
 - 💡 I’m currently learning quantum machine learning. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
-- 💬 Talk to me about Machine Learning, Quantum Computing and Biomedical ML Research.
+- 💬 Talk to me about Machine Learning, Quantum Computing, ML in Physical Systems and Biomedical ML Research.
 - ⚡ Fun fact: My current book I am reading is The Technological Singualarity by Murray Shanahan
 
 ### Tools I Use 
