@@ -9,7 +9,7 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 [![Gmail Badge](https://img.shields.io/badge/-ashima_mr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashimafatima104@gmail.com)](mailto:ashimafatima104@gmail.com)
 
 - 🍭 <b>Open for Hiring</b>
-- 🌍 Based in Chennai, Qatar and the UK
+- 🌍 Based in Chennai and Qatar
 - 💡 I’m currently learning quantum machine learning. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
 - 💬 Talk to me about Machine Learning, Quantum Computing and Biomedical ML Research.
