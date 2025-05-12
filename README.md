@@ -1,4 +1,4 @@
-### Oh hi there! 👋 Fancy seeing you here! 🌼
+### Hey there! 👋 
 
 I'm Ashima, an (almost graduated) computer science undergrad. I specilize in Machine Learning and am currently passionate about NLP, Explainable AI and Cryptography . Always open to collaborating on projects and random ideas. Feel free to get to know and connect with me here:
 
