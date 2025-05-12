@@ -1,10 +1,10 @@
 ### Oh hi there! 👋 Fancy seeing you here! 🌼
 
-I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine Learning and am currently passionate about NLP, Explainable IA and Cryptography . Always open to collaborating on projects and random ideas. Feel free to get to know and connect with me here:
+I'm Ashima, an (almost graduated) computer science undergrad. I specilize in Machine Learning and am currently passionate about NLP, Explainable IA and Cryptography . Always open to collaborating on projects and random ideas. Feel free to get to know and connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashima-mr/)](https://www.linkedin.com/in/ashima-mr/)
 [![Medium Badge](https://img.shields.io/badge/-@ashima_mr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashima-mr)](https://medium.com/@ashima-mr)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ashima_mr)](https://twitter.com/ashima_mr) --!>
+<!-- [![Twitter Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ashima_mr)](https://twitter.com/ashima_mr) -->
 [![Gmail Badge](https://img.shields.io/badge/-ashima_mr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashimafatima104@gmail.com)](mailto:ashima.raghman@gmail.com)
 
 - 🍭 <b>Open for Hiring</b>
