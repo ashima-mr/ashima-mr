@@ -10,9 +10,9 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 
 - 🍭 <b>Open for Hiring</b>
 - 🌍 Based in Chennai and Qatar
-- 💡 I’m currently learning quantum machine learning. 
+- 💡 I’m currently stuyding quantum machine learning. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
-- 💬 Talk to me about Machine Learning, Quantum Computing, ML in Physical Systems and Biomedical ML Research.
+- 💬 Talk to me about NLP, Explainable AI, Infomration Theory, Cryptography and Quantum Computing.
 - ⚡ Fun fact: The book I'm currently reading is The Technological Singualarity by Murray Shanahan
 
 ### Tools I Use 
@@ -39,7 +39,6 @@ I'm Ashima, a computer science undergrad @ VIT Chennai. I specilize in Machine L
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ✏️ Featured blogs/articles
 
