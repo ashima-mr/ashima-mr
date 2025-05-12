@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-I'm Ashima, an (almost graduated) computer science undergrad. I specialize in Machine Learning and am currently passionate about NLP, Explainable AI and Cryptography . Always open to collaborating on projects and random ideas. Feel free to get to know and connect with me here:
+I'm Ashima, an (almost graduated) computer science undergrad. I specialize in Machine Learning and am currently passionate about NLP, Explainable AI and Cryptography. Always open to collaborating on projects and random ideas. Feel free to get to know and connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ashima_mr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashima-mr/)](https://www.linkedin.com/in/ashima-mr/)
 [![Medium Badge](https://img.shields.io/badge/-@ashima_mr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ashima-mr)](https://medium.com/@ashima-mr)
@@ -11,7 +11,7 @@ I'm Ashima, an (almost graduated) computer science undergrad. I specialize in Ma
 - 🌍 Based in Chennai and Qatar
 - 💡 I’m currently stuyding quantum machine learning. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
-- 💬 Talk to me about NLP, Explainable AI, Infomration Theory, Cryptography and Quantum Computing.
+- 💬 Talk to me about NLP, Explainable AI, Information Theory, Cryptography and Quantum Computing.
 - ⚡ Fun fact: The book I'm currently reading is The Technological Singualarity by Murray Shanahan
 
 ### Tools I Use 
