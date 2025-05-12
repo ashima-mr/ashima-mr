@@ -12,7 +12,7 @@ I'm Ashima, an (almost graduated) computer science undergrad. I specialize in Ma
 - 💡 I’m currently stuyding quantum machine learning. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
 - 💬 Talk to me about NLP, Explainable AI, Information Theory, Cryptography and Quantum Computing.
-- ⚡ Fun fact: The book I'm currently reading is The Technological Singualarity by Murray Shanahan
+- ⚡ Fun fact: The book I'm currently reading is Simulacra and Simulation
 
 ### Tools I Use 
 
