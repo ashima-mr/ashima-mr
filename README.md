@@ -11,7 +11,7 @@ I'm Ashima, an final year cs undergrad. I specialize in ML and am currently pass
 - 🌍 Based in Chennai and Qatar
 - 💡 I’m currently stuyding QML. 
 - 🍄 I’m looking to collaborate on any ML project really! Always interested in learning smt new 🌱
-- 💬 Talk to me about NLP, xAI, Information Theory, Cryptography and Quantum Computing.
+- 💬 Talk to me about NLP, XAI, Cryptography and Quantum Computing.
 - ⚡ Fun fact: The book I'm currently reading is Simulacra and Simulation
 
 ### Tools I Use 
